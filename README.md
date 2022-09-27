@@ -33,7 +33,7 @@ Os autores desse projeto são:
 
 👩‍💻[Isa](https://github.com/enilaester/) <br/>
 👩‍💻[Jaqueline Damasceno](https://github.com/jaquelinesindie/) <br/>
-👨‍💻[Laura Romano](https://github.com/joaorosa2/) <br/>
-👩‍💻[Patrick Eleoterio](https://github.com/MarianaLobao/) <br/>
-👩‍💻[Thiago](https://github.com/carolcandeias/) <br/>
+👩‍💻[Laura Romano](https://github.com/joaorosa2/) <br/>
+👨‍💻[Patrick Eleoterio](https://github.com/MarianaLobao/) <br/>
+👨‍[Thiago](https://github.com/carolcandeias/) <br/>
 
