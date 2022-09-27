@@ -7,12 +7,8 @@ Este é um projeto desenvolvido como avaliação final do Módulo 4 do curso Dat
 Onde foram utilizados os arquivos dos meses de julho e agosto de 2022, contendo a série histórica dos preços da gasolina e do etanol em todo o Brasil que estão disponíveis no portal dados.gov.
 
 Os datasets utilizados estão disponíveis nos seguintes links:
-- Link dos datasets:
-https://dados.gov.br/dataset/serie-historica-de-precos-de-combustiveis-por-revenda
-- Julho:
-https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/shpc/dsan/2022/precos-gasolina-etanol-07.csv 
-- Agosto
-- https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/shpc/dsan/2022/precos-gasolina-etanol-08.csv 
+- Julho/2022: https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/shpc/dsan/2022/precos-gasolina-etanol-07.csv 
+- Agosto/2022: https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/shpc/dsan/2022/precos-gasolina-etanol-08.csv 
 
 ### 🚀 <strong>Tecnologias utilizadas </strong>
 
