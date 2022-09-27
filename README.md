@@ -31,9 +31,9 @@ https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloni
 
 Os autores desse projeto são:
 
-👩‍💻[Isa](https://github.com/enilaester/) <br/>
-👩‍💻[Jaqueline Damasceno](https://github.com/jaquelinesindie/) <br/>
-👩‍💻[Laura Romano](https://github.com/joaorosa2/) <br/>
-👨‍💻[Patrick Eleoterio](https://github.com/MarianaLobao/) <br/>
-👨‍[Thiago](https://github.com/carolcandeias/) <br/>
+👩‍[Isabelle Cavalcante](https://github.com/enilaester/](https://www.linkedin.com/in/isabelle-cavalcante-261656234/) <br/>
+👩‍[Jaqueline Damasceno](https://github.com/jaquelinesindie/) <br/>
+👩💻[Laura Romano](https://www.linkedin.com/in/laura-maria-de-souza-romano/) <br/>
+👨💻[Patrick Eleoterio](https://www.linkedin.com/in/patrickeleoterio/) <br/>
+👨‍[Thiago Vasconcelos](https://www.linkedin.com/in/thiago-vasconcelos-135420242/) <br/>
 
